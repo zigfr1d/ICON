@@ -1,0 +1,104 @@
+.mySize{
+    font-size: 170px;
+    color: red;
+    background: yellow;
+   border-radius:50% ;
+}
+.mySize2{
+    font-size: 30px;
+}
+.myC{
+    color: yellow;
+    transition: 0.5s;
+}
+
+
+.myC:hover{
+    color: blueviolet;
+    font-size: 50px;
+    transform: rotate(70deg);
+}
+
+
+.test{
+    width: 150px;
+    height: 150px;
+    background: red;
+    float: left;
+    border-radius: 50%;
+}
+
+.test img{
+    object-fit: cover;
+    border-radius: 50%;
+    transition: 0.5s;
+    
+
+}
+.test img:hover{
+    transform: rotate(90deg);
+}
+
+
+
+
+
+
+.test2{
+    width: 150px;
+    height: 150px;
+    background: red;
+    float: left;
+    border-radius: 50%;
+}
+
+.test2 img{
+    object-fit: cover;
+    border-radius: 50%;
+    transition: 0.5s;
+    
+
+}
+.test2 img:hover{
+    transform: rotate(270deg);
+}
+
+
+.test3{
+    width: 150px;
+    height: 150px;
+    background: red;
+    float: left;
+    border-radius: 50%;
+}
+
+.test3 img{
+    object-fit: cover;
+    border-radius: 50%;
+    transition: 0.5s;
+    
+
+}
+.test3 img:hover{
+    transform: scale(1.3);
+}
+
+
+.test4{
+    width: 150px;
+    height: 150px;
+    background: azure;
+    float: left;
+    border-radius: 50%;
+}
+
+.test4 img{
+    object-fit: cover;
+    border-radius: 50%;
+    transition: 0.5s;
+    
+
+}
+.test4 img:hover{
+    transform: skewY(20deg);
+}
